@@ -8,7 +8,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=EarthDaichi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EarthDaichi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthDaichi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+# 🌟 Roadmaps Stats:
+![roadmap.sh](https://roadmap.sh/card/wide/69b168de47536ddad1efe4b6?variant=dark)](https://roadmap.sh)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EarthDaichi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
